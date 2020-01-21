@@ -1,0 +1,4 @@
+node_modules
+venv
+db_connect.php
+.ds_store
